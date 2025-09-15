@@ -20,6 +20,7 @@ function App() {
     setToCurrency(fromCurrency)
     setAmountConverted(0)
     setAmount(amountConverted)
+    // setAmount(amountConverted)
   }
 
   const convert = () => {
