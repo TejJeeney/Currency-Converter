@@ -9,6 +9,7 @@ createRoot(document.getElementById('root')).render(
   <StrictMode>
     <App />
     <InputBox />
+    {/* <InputBox /> */}
   </StrictMode>,
 )
 
